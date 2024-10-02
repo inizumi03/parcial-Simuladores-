@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Roto
+  - Bueno
+  - tubo
+  - TuboRoto
+  - TuboDestruir
+  - TuboRotar
   layers:
   - Default
   - TransparentFX
